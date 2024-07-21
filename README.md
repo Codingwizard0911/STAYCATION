@@ -9,8 +9,7 @@ Welcome to the Staycation Dashboard! This interactive Tableau dashboard is desig
 📍 Sherds Region Sales: Identify the region with the highest sales.
 💬 Price vs. Reviews: Examine the relationship between pricing and customer reviews.
 📁 Files Included
-Tableau Workbook: Staycation_Dashboard.twbx - The primary Tableau file with the interactive dashboard.
-Supporting Documents: Additional documentation or data files, if applicable.
+Tableau Workbook:[ Staycation_Dashboard.twbx](https://public.tableau.com/app/profile/umapathi.r/viz/Book1_17170605817660/Story1) - The primary Tableau file with the interactive dashboard.
 📋 How to Use
 🔽 Download: Clone or download the repository to your local machine.
 📂 Open in Tableau: Launch Tableau Desktop and open the Staycation_Dashboard.twbx file.
